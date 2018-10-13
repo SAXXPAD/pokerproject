@@ -8,13 +8,26 @@ public class Players{
 	private String str = sc.next();
 	
 	public int getHeadCount() {
+		
 		return headCount;
 	}
+	
 	public void setHeadCount(int headCount) {
+		
 		this.headCount = headCount;
+		
 	}
-	
-	
-	
+
+	public String getStr() {
+		
+		return str;
+		
+	}
+
+	public void setStr(String str) {
+		
+		this.str = str;
+		
+	}
 	 
 }

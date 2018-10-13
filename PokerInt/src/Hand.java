@@ -5,7 +5,7 @@
  */
 
 public class Hand {
+	
 int cardAmount;
-
 
 }
