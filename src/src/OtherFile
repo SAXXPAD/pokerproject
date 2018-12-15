@@ -1,0 +1,41 @@
+public class OtherFile() {
+	
+	private int bills;
+	private double total;
+	
+	public OtherFile() {
+	
+	}
+	
+	public OtherFlie(int bills; double total) {
+	
+	this.bills = bills
+	this.total = total
+	
+	}
+	
+	public void setTotal() {
+	
+	this.total = total
+	
+	}
+	
+	public double getTotal() {
+	
+	return total;
+	
+	}
+	
+	public void setQuantity() {
+	
+	this.bills = bills;
+	
+	}
+	
+	public int getQuantity() {
+	
+	return bills;
+	
+	}
+	
+}
