@@ -16,11 +16,19 @@ PSI 1
 - Describe operator precedence as a comment (PSI 1 Class)
 
 PSI 2
-- Polymorphism (view comment on Main class nexts to objects)
+- Develop code wiht Polymorphism (view comment on Main class nexts to objects)
 
 - Make a class in seperate file with private fields(I have it in both a text file and a java file as of now because I realized I misinterpreted the rubric, Its in OtherFile class and OtherFile txt)
 
 - Use if and if/else and ternary operators (one for sure in PSI 1)
+
+-Overloaded Method (Enhanced Loop Class)
+
+-Enhanced For Loop (Enhanced Loop Class)
+
+-Break Statement w/ Description (PSI 1 Class within my switch statements)
+
+-Sum of values in an Array using an Accumulator (Arrray Application Class)
 
 FINAL
 (If somehow my overall allows me to get at least 20 pts. to 40 pts. on the Concepts section of the Final Int Project Submission be mindful)
