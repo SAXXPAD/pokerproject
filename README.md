@@ -23,4 +23,4 @@ PSI 2
 - Use if and if/else and ternary operators (one for sure in PSI 1)
 
 FINAL
-(If somehow my overall allows me to get at least 20 pts. to 40 pts. on the Concepts question be mindful)
+(If somehow my overall allows me to get at least 20 pts. to 40 pts. on the Concepts section of the Final Int Project Submission be mindful)
