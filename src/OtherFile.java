@@ -1,3 +1,4 @@
+
 public class OtherFile {
 	private int bills;
 	private double total;

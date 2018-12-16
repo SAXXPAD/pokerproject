@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
 public class ArrayApplication {
  
@@ -74,7 +75,7 @@ public class ArrayApplication {
 
   public static void generics() {
     
-    List list = new ArrayList();
+    List<String> list = new ArrayList<String>();
     list.add("hello");
     String s = (String) list.get(0);
     
@@ -88,6 +89,10 @@ public class ArrayApplication {
   public static void genMethod() {
     
     Integer[] intArray = { 20, 40, 60, 80, 100 };
+    int a = 0;
+	int sum = IntStream.of(a).sum();			//Added accumulator to count total sum of an array
+	
+    System.out.println("The sum is " + sum);
     Double[] doubleArray = { 0.1, 0.2, 0.3, 0.4 };
     Character[] charArray = { 'K', 'A', 'P', 'P', 'A' };
 

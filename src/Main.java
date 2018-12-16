@@ -10,19 +10,24 @@ public class Main {
 	
 	public static void main(String[] args) throws java.lang.Exception {
 		
-		PSI1.sstatement();
-		PSI2.bstatement();
-		PSI2.dwloop();
-		PSI2.floops();
-		PSI2.wloops();
+		PSI1.sstatement();//switch statement
+		PSI2.bstatement();//
+		PSI2.dwloop();//do while loop
+		PSI2.floops();//for loop
+		PSI2.wloops();//while loop
 		
-		Vehicle car1 = new Car();
+		Vehicle car1 = new Car();			//From here
 		car1.sound();
 		Vehicle moto1 = new Motorcycle();
-		moto1.sound();
+		moto1.sound();						/*To here... 
+											(Is my incorporation of Polymorphism using the "sound()" 
+											from the Vehicle class and sharing the method with derived class
+											Objects Car and Motorcycle )*/
 		
-		ArrayApplication.arr();
-		ExceptionHandling.toss();
+		EnhancedLoop.overload();//overloaded Method
+		EnhancedLoop.dot();//Enhanced For Loop
+		ArrayApplication.arr();//many array applications
+		ExceptionHandling.toss();//Exception Handling
 	}
 	
 }

@@ -31,6 +31,8 @@ public class PSI1 {
 		
         int month = 1;
         
+        /*break Statements allow for the program to maintain a case by case control system.
+         *In Loops, break statements are used to exit loops instantly w/out false loop condition*/
         String monthString;
         switch (month) {
             case 1:  monthString = "January";
